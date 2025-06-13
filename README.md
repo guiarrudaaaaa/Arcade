@@ -1,5 +1,4 @@
-﻿**Arcade Games**
-
+![arcade games](arcade_games_banner.png)
 **Descrição do Projeto**
 
 Este projeto é uma coleção de jogos clássicos de arcade desenvolvidos em HTML, CSS e JavaScript. Ele oferece uma experiência nostálgica com três jogos populares: Jogo da Velha, Snake e Jogo da Memória, todos acessíveis através de uma interface de usuário intuitiva e com um design inspirado em máquinas de arcade retrô.
